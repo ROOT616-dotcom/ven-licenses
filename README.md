@@ -1,1 +1,2 @@
-# ven-licenses
+# keys
+KEY|NOME|SCADENZA|USI_TOTALI|USI_USATI|HWID|STATO
